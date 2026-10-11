@@ -5,4 +5,4 @@
 
 ## Contributions
 
-- [Black Box terminal](https://gitlab.gnome.org/Radnaskela/blackbox/-/commit/4aa412af17f8083c889080bbd5fdb5f17e7ebc32)
+- [Black Box terminal](https://gitlab.gnome.org/raggesilver/blackbox/-/commit/fc6fcf3f475b46565ef6d76f706aa1f1a4bbb513)
